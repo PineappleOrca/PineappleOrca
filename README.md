@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <img src="https://simpleskill.icons.workers.dev/svg?i=python,c,cplusplus" />
 <h3> Databases </h3>
 <img src="https://simpleskill.icons.workers.dev/svg?i=sqlite,postgresql" />
-
+<h3> Databases </h3>
+<img src="https://simpleskill.icons.workers.dev/svg?i=numpy,pandas,apachespark" />
 
 
