@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3> Languages I am learning/trying  </h3>
 <img src="https://simpleskill.icons.workers.dev/svg?i=go,javascript,typescript" />
 <h3> Databases </h3>
-<img src="https://simpleskill.icons.workers.dev/svg?i=sqlite,postgresql" />
+<img src="https://simpleskill.icons.workers.dev/svg?i=sqlite,postgresql,mysql" />
 <h3> Frameworks/Libraries </h3>
 <img src="https://simpleskill.icons.workers.dev/svg?i=numpy,pandas,apachespark,streamlit,scipy,scikitlearn" />
 <h3> Tools </h3>
