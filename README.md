@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3> Languages </h3>
+<img src = "https://simpleskill.icons.workers.dev/svg?i=python,C, SQL"/>
+
