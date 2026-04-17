@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 <img src="https://simpleskill.icons.workers.dev/svg?i=python,c,cplusplus" />
 <h3> Databases </h3>
 <img src="https://simpleskill.icons.workers.dev/svg?i=sqlite,postgresql" />
-<h3> Databases </h3>
+<h3> Frameworks/Libraries </h3>
 <img src="https://simpleskill.icons.workers.dev/svg?i=numpy,pandas,apachespark" />
 <h3> Tools </h3>
-<img src="https://simpleskill.icons.workers.dev/svg?i=databricks,docker,cicd" />
+<img src="https://simpleskill.icons.workers.dev/svg?i=databricks,docker,git" />
+<h3> Cloud Providers </h3>
+<img src="https://simpleskill.icons.workers.dev/svg?i=aws" />
 
