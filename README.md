@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h3> Languages </h3>
-<img src="https://simpleskill.icons.workers.dev/svg?i=python,c,sql" />
+<img src="https://simpleskill.icons.workers.dev/svg?i=python,c,cplusplus" />
 <h3> Databases </h3>
 <img src="https://simpleskill.icons.workers.dev/svg?i=sqlite,postgresql" />
 
