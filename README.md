@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <h3> Languages </h3>
-<img src="https://simpleskill.icons.workers.dev/svg?i=python,c,cplusplus" />
+<img src="https://simpleskill.icons.workers.dev/svg?i=python,c,cplusplus,go,javascript" />
 <h3> Databases </h3>
 <img src="https://simpleskill.icons.workers.dev/svg?i=sqlite,postgresql" />
 <h3> Frameworks/Libraries </h3>
-<img src="https://simpleskill.icons.workers.dev/svg?i=numpy,pandas,apachespark,streamlit,scipy,pygame" />
+<img src="https://simpleskill.icons.workers.dev/svg?i=numpy,pandas,apachespark,streamlit,scipy,pygame,scikitlearn" />
 <h3> Tools </h3>
 <img src="https://simpleskill.icons.workers.dev/svg?i=databricks,docker,git" />
 <h3> OS </h3>
