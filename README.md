@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 <img src="https://simpleskill.icons.workers.dev/svg?i=numpy,pandas,apachespark" />
 <h3> Tools </h3>
 <img src="https://simpleskill.icons.workers.dev/svg?i=databricks,docker,git" />
-<h3> Cloud Providers </h3>
-<img src="https://simpleskill.icons.workers.dev/svg?i=aws" />
+<h3> OS </h3>
+<img src="https://simpleskill.icons.workers.dev/svg?i=macos,linux" />
 
