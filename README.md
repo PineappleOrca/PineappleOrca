@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h3> Frameworks/Libraries </h3>
 <img src="https://simpleskill.icons.workers.dev/svg?i=numpy,pandas,apachespark,streamlit,scipy,scikitlearn" />
 <h3> Tools </h3>
-<img src="https://simpleskill.icons.workers.dev/svg?i=databricks,docker,git,bash" />
+<img src="https://simpleskill.icons.workers.dev/svg?i=databricks,docker,git,gnubash" />
 <h3> OS </h3>
 <img src="https://simpleskill.icons.workers.dev/svg?i=macos,linux" />
 
