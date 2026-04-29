@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 <h3> Tools </h3>
 <img src="https://simpleskill.icons.workers.dev/svg?i=databricks,docker,git,gnubash,githubactions" />
 <h3> OS </h3>
-<img src="https://simpleskill.icons.workers.dev/svg?i=macos,linux" />
+<img src="https://simpleskill.icons.workers.dev/svg?i=windows, Apple,linux" />
 
