@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <h3> Languages </h3>
-<img src="https://simpleskill.icons.workers.dev/svg?i=python,c,cplusplus" />
+<img src="https://simpleskill.icons.workers.dev/svg?i=python" />
+<h3> Languages I have worked with professionally </h3>
+<img src="https://simpleskill.icons.workers.dev/svg?i=c,cplusplus" />
 <h3> Languages I am learning/trying  </h3>
 <img src="https://simpleskill.icons.workers.dev/svg?i=go,javascript,typescript" />
 <h3> Databases </h3>
