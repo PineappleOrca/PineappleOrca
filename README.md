@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 <h3> OS </h3>
 <img src="https://simpleskill.icons.workers.dev/svg?i=windows,Apple,linux" />
 
+-> Boot.dev account: https://www.boot.dev/u/tsmpikachu (For certifications)
+
