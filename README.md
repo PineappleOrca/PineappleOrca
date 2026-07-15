@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h3> Databases </h3>
 <img src="https://simpleskill.icons.workers.dev/svg?i=sqlite,postgresql,mysql" />
 <h3> Frameworks/Libraries </h3>
-<img src="https://simpleskill.icons.workers.dev/svg?i=numpy,pandas,apachespark,streamlit,scipy,scikitlearn" />
+<img src="https://simpleskill.icons.workers.dev/svg?i=numpy,pandas,apachespark,streamlit,scipy,scikitlearn,fastapi" />
 <h3> Tools </h3>
 <img src="https://simpleskill.icons.workers.dev/svg?i=databricks,docker,git,gnubash,githubactions,apacheairflow,postman,grafana,terraform,dbt" />
 <h3> OS </h3>
